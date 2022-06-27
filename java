@@ -1,2 +1,5 @@
 sum
 factorial
+gcd
+
+
